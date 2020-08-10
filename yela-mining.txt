@@ -4,3 +4,4 @@ ArcCorp Mining 157 (AC157)
 AC157: 2650M, OM3: 318.4KM, OM1: 326.2KM.
 AC157: 3766M, OM3: 320.4KM, OM1: 324.0KM.
 AC157: 19.1KM, OM3: 306.5KM, OM1: 338.0KM. Large field
+OM1: 403.6KM, OM3: 417.6 OM4: 660.9, OM6: 310.1KM. Possible High output. Jump to Nakamura Valley Aid Shelter
